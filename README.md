@@ -1,4 +1,4 @@
-Workd in standalone !!
+Works in standalone !!
 
 This component is designed to demonstrate how game data is saved and retrived efficiently in Range Engine.
 Feel free to modify the script to suit your needs.
