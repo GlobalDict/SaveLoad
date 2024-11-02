@@ -1,5 +1,5 @@
 This component is designed to demonstrate how game data is saved and retrived efficiently in Range Engine.
-Feel free to modigy the script to suit your needs.
+Feel free to modify the script to suit your needs.
 Func(s) "save()" and "load()" contains code responsible for saving and loading.
 Func "movement()" contains code responsible for moving player around.
 Func "buttons" contains code responsible for GUI elements functionalities and save_load triggers
